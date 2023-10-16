@@ -18,3 +18,35 @@ In this project, you need to import 4 package into your project. Even though the
 - Youtuber: https://www.youtube.com/@dilmerv
 - Fusion Documentation: https://doc.photonengine.com/fusion/current/getting-started/fusion-intro
 - Interation Example: https://developer.oculus.com/documentation/unity/unity-isdk-example-scenes/
+
+## User Manual
+
+![](https://scontent.fmel3-1.fna.fbcdn.net/v/t39.2365-6/64515613_622041711631269_1500694343822868480_n.png?_nc_cat=103&ccb=1-7&_nc_sid=e280be&_nc_ohc=7WtZrfzz4d8AX-DAu2-&_nc_ht=scontent.fmel3-1.fna&oh=00_AfCCuxKa6faBFtG-607N68NYf8l-zs9JtIJQ9o7AdZi38w&oe=65479C81)
+
+### Create Whiteboard
+
+Firstly, press SecondaryIndexTrigger to draw the horizontal line.
+
+Then, press SecondaryIndexTrigger again to pull out a whiteboard from the line.
+
+### Reset Whiteboard
+
+Press Button.Four
+
+### Call out debug display
+
+Press Button.Four and PrimaryIndexTrigger at the same time.
+
+**Note**: This action will reset whiteboard. So please press it before you create the whiteboard.
+
+### Poke Interaction
+
+Controllers: There is a white dot indicator shown in the front of the controller.
+
+Hands: Use index finger as indicator.
+
+### Grab Interaction
+
+Controllers: Use PrimaryHandTrigger or SecondaryHandTrigger.
+
+Hands: Bring the thumb and index finger together.
